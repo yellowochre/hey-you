@@ -1,4 +1,5 @@
-#Hey Kristi - just adding a line of code up here :) :)
+#Hey Kristi - just adding a line of code up here :) :) :)
+#Hey K one more line of code
 def main_mod()
 	array = ["rock", "paper", "scissors"]
 	
