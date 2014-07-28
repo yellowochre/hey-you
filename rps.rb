@@ -1,3 +1,5 @@
+puts "Good Evening"
+
 def main_mod()
 	array = ["rock", "paper", "scissors"]
 	
