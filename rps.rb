@@ -1,3 +1,4 @@
+#Hey Kristi - just adding a line of code up here :) :)
 def main_mod()
 	array = ["rock", "paper", "scissors"]
 	
