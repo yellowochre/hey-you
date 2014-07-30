@@ -1,4 +1,8 @@
-def main_mod()
+
+#Hey Kristi - just adding a line of code up here :) 
+#Hey K one more line of code
+
+#Hey just adding a line of code for the homeworkdef main_mod()
 	array = ["rock", "paper", "scissors"]
 	
 	score, comp_score = my_game(array, score, comp_score)
